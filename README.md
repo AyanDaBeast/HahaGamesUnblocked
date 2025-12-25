@@ -8,3 +8,29 @@ INSTRUCTIONS:
 
 This File is Haha Games unblocked 
 <img width="1314" height="637" alt="image" src="https://github.com/user-attachments/assets/f471e35b-9468-48f0-998d-778592246b1b" />
+# HahaGames Unblocked
+
+A simple, lightweight HTML-based launcher that lets you access the Haha Games website in environments where the main domain may be blocked.
+
+## 🚀 How It Works
+This project uses a clean HTML embed to load Haha Games through a different path.  
+No executables, no installers, no scripts — just a single HTML file you can open locally.
+
+## 📦 Getting Started
+1. Download the ZIP from GitHub.
+2. Extract it.
+3. Open `HahaGamesEmbed.html` in any browser.
+4. Enjoy access to Haha Games.
+
+## 🔒 Safety
+- This project contains **no malware**, **no trackers**, and **no external scripts** beyond what HahaGames itself loads.
+- All code is visible and easy to inspect.
+- You can run it offline before loading the site to verify its behavior.
+
+## ⚠️ Disclaimer
+This project is for educational and personal use only.  
+Do not use it to violate school, workplace, or network policies.
+
+## 📄 License
+MIT License — free to use, modify, and share.
+
