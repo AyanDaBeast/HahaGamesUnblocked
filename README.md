@@ -22,6 +22,10 @@ No executables, no installers, no scripts — just a single HTML file you can op
 3. Open `HahaGamesEmbed.html` in any browser.
 4. Enjoy access to Haha Games.
 
+## 🎯 Why This Exists
+Some networks block harmless gaming sites entirely, even when users just want a quick break.
+This project provides a clean, minimal workaround for personal use without relying on shady proxies or unknown third‑party services.
+
 ## 🔒 Safety
 - This project contains **no malware**, **no trackers**, and **no external scripts** beyond what HahaGames itself loads.
 - All code is visible and easy to inspect.
