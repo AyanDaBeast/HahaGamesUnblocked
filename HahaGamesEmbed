@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="robots" content="noindex, nofollow" />
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Best Free Online Games</title>
+
+        <meta name="description" content="🎮 Play Veck.io — a fast-paced FPS browser game.">
+
+        <link rel="icon" href="img/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/uikit@latest/dist/css/uikit.min.css">
+
+        <style>
+            html, body {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                overflow: hidden; /* removes scrollbars */
+            }
+            iframe {
+                border: 0;
+                width: 100vw;   /* full tab width */
+                height: 100vh;  /* full tab height */
+                display: block;
+            }
+            .uk-container-small {
+                max-width: 1020px;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <!-- FULL-TAB VECK.IO -->
+        <iframe 
+            title="Veck.io" 
+            src="https://www.gamenora.com/game/veck-io/" 
+            uk-height-viewport>
+        </iframe>
+
+        <!-- Optional section (won't be visible unless iframe removed) -->
+        <section class="uk-section uk-section-muted uk-padding-remove-bottom">
+            <div class="uk-container uk-container-small">
+                <header class="uk-text-center">
+                    <h1 class="uk-heading-primary">Play Veck.io</h1>
+                    <p>Fast-paced FPS .IO browser game — click inside the game to start.</p>
+                </header>
+            </div>
+        </section>
+
+        <footer class="uk-section-secondary">
+            <div class="uk-section uk-section-xsmall" style="background-color: rgba(0,0,0,0.15)">
+                <div class="uk-container">
+                    <div class="uk-grid uk-child-width-1-2@s uk-text-center uk-text-left@s" data-uk-grid>
+                        <div class="uk-text-small uk-text-muted">
+                            Copyright 2023 - All rights reserved.
+                        </div>
+                        <div class="uk-text-small uk-text-center uk-text-right@s">
+                            <a href="#top">Back to top</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit-icons.min.js"></script>
+
+    </body>
+</html>
